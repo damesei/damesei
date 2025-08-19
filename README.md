@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒ I’m currently working on<br>Prepping for technical interviews and the upcoming school year.<br>🤝 I’m looking to collaborate on<br>Backend or full-stack projects that allow me to expand my skillset, make improvements to processes, and solve real problems.<br>🌱 I’m currently learning<br>Spring Boot and SQL Best Practices <br><br>💬 Ask me about<br>How I was introduced to tech and the types of projects I enjoy building.<br><br>⚡ Fun fact<br>My single game PR in bowling is 250. Potential SWE teammate M-F, ideal league partner on the weekends 🎳
+⚒ I’m currently working on<br>Prepping for technical interviews and the upcoming school year.<br>🤝 I’m looking to collaborate on<br>Backend or full-stack projects that allow me to expand my skillset, make improvements to processes, and solve real problems.<br>🌱 I’m currently learning<br>API development with Spring Boot and JPA<br><br>💬 Ask me about<br>How I was introduced to tech and the types of projects I enjoy building.<br><br>⚡ Fun fact<br>My single game PR in bowling is 250. Potential SWE teammate M-F, ideal league partner on the weekends 🎳
 
 
 ## 🌐 Socials:
