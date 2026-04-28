@@ -6,6 +6,8 @@ Last summer, I invested a lot of time developing the skills required to succeed 
 I'm mainly focused on opportunities to grow as a software engineer, though I'm open to data-focused positions and other opportunities in the tech space! I'm interested in an environment that enables me to utilize my existing skillset or quickly grasp and apply new tools to production. Equally important, I value the opportunity to productively collaborate and learn as much as possible from the people around me.
 ## Why CS? What About AI?
 The tech space naturally breeds innovation, meaning traditional processes will always be challenged. Just look back at blockchain, cloud computing, and containerization. These scenarios aren't unique to the technologies themselves either; waterfall development was considered the normal methodology for some time and it too was challenged by agile development. I believe concrete fundamentals and systems-level understanding are the links between such changes and the ability to efficiently adapt and leverage them as needed. This is not to say change (especially at a rapid pace) can't be scary, just that the right foundation can make it less overwhelming.
+## Fun Fact
+I enjoy bowling! I currently own 4 bowling balls, average roughly 175, and have a personal best of 250.
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damesei) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damesei@umich.edu)
 ## Tech Stack
