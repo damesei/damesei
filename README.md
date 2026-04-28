@@ -2,13 +2,13 @@
 I'm a Computer Science undergrad at the University of Michigan, Ann Arbor (Spring '27). Focusing on software engineering, I've covered coursework on backend/full-stack development, practical software engineering (lifecycle methodoligies and testing practices), computer architecture, and networking/distributed systems. I've also developed skills in statistical modeling as an undergrad researcher, and data analysis during a data fellowship.
 
 ## What Am I Currently Doing?
-This summer I'm strengthening my fundamentals in math and theoretical CS, pursuing upcoming tech internships/co-ops (SWE mainly) and exploring more low-level development by building a compiler from scratch(C++).
+Last summer, I invested a lot of time developing the skills required to succed in technical interviews. This summer I'm diving more into the fundamentals of math and theoretical CS, pursuing internship/co-op opportunities, and exploring more low-level development by building a compiler from scratch using C++ (Keep an eye out for the public repo).
 
 ## What Opportunities am I Interested In?
-I'm mainly focused on opportunities to grow as a software engineer, though I'm open to data-focused positions and other opportunities in the tech space!
+I'm mainly focused on opportunities to grow as a software engineer, though I'm open to data-focused positions and other opportunities in the tech space! I'm interested in an environment that enables me to utilize my existing skillset or quickly grasp and apply new tools to production.
 
 ## Why CS? Aren't I Scared of AI?
-The tech space will continue to output new technologies that challenge traditional processes; just look back at blockchain, cloud computing, and containerization. This scenario isn't unique to just technologies, waterfall development was the considered the normal approach and yet it was still challenged by agile. I believe concrete fundamentals and systems-level understanding is not only crucial to adapt, but to effectively leverage these changes in a meaningful way. This is not to say change (nevertheless at a rapid pace) can't be scary, just that the right foundation makes it manageable.
+The tech space naturally breeds innovation, meaning traditional processes will always be challenged. Just look back at blockchain, cloud computing, and containerization. These scenarios aren't unique to the technologies themselves either; waterfall development was the considered the normal methodology for some time and it too was challenged by agile development. I believe concrete fundamentals and systems-level understanding are the links between such changes and the ability to efficiently adapt and leverage them as needed. This is not to say change (especially at a rapid pace) can't be scary, just that the right foundation can make it less overwhelming.
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damesei) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damesei@umich.edu)
