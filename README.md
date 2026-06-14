@@ -1,4 +1,4 @@
-## Hi! I'm Damian Seitz
+## Hi, I'm Damian Seitz!
 I'm a Computer Science undergrad at the University of Michigan focused on software engineering and adjacent areas. I've covered coursework on backend/full-stack development, practical software engineering (lifecycle methodologies and testing practices), computer architecture, and networking/distributed systems. Apart from the engineering side, I've developed skills in statistical modeling and data analysis from undergraduate research and fellowship experiences.
 ## Current Initiatives
 Last summer, I invested a lot of time developing the skills required to succeed in technical interviews. I've reached the conclusion that I don't solely want to think of myself as a software engineer and I want to avoid the trap of broad and shallow knowledge. Instead, I envision my future as a technical problem solver who can tackle challenging problems across many sectors of tech. To directly answer the question, I'm rigorously covering fundamental math and theoretical CS outside of class to be adaptable to any existing and upcoming systems and roles.   
