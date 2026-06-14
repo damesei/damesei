@@ -5,7 +5,7 @@ Last summer, I invested a lot of time developing the skills required to succeed 
 ## What Opportunities am I Interested In?
 Ideally I'd like to focus on opportunities to grow as a software engineer in my early career, but don't count me out for other roles! I'm open to exploring and becoming involved in other areas of tech if the opportunity seems like a good fit! If you're reading this and are involved in a field that solves problems, I'd like to learn about your work and what you enjoy about it!
 ## Who Am I Away From the Screen?
-I'm a self-proclaimed PBA bowler and IFBB bodybuilding professional (In reality, I average 170 bowling on house shots, and I've only lifted weights for 5 years). I am, however, a fan of all animals (I have a pomsky named Rocket). Whether you want me to join your bowling league or pick my brain about tech, just contact me!
+I'm a self-proclaimed PBA bowler and IFBB bodybuilding professional (In reality, I average 170 bowling on house shots, and I've only lifted weights for 5 years). I do, however, enjoy anime, gaming (PC), and am a fan of animals (I have a pomsky named Rocket) I still have yet to meet a capybara. Whether you want me to join your bowling league or pick my brain about tech, just contact me!
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damesei) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damesei@umich.edu)
 ## Tech Stack
