@@ -1,11 +1,15 @@
 ## Hi, I'm Damian Seitz!
-I'm a Computer Science undergrad at the University of Michigan focused on software engineering and adjacent areas. I've covered coursework on backend/full-stack development, practical software engineering (lifecycle methodologies and testing practices), computer architecture, and networking/distributed systems. Apart from the engineering side, I've developed skills in statistical modeling and data analysis from undergraduate research and fellowship experiences.
-## Current Initiatives
-Last summer, I invested a lot of time developing the skills required to succeed in technical interviews. I've reached the conclusion that I don't solely want to think of myself as a software engineer and I want to avoid the trap of broad and shallow knowledge. Instead, I envision my future as a technical problem solver who can tackle challenging problems across many sectors of tech. To directly answer the question, I'm rigorously covering fundamental math and theoretical CS outside of class to be adaptable to any existing and upcoming systems and roles.   
+I'm studying Computer Science at the University of Michigan, focused on software engineering and related areas. I've completed coursework covering full-stack & object-oriented development, algorithmic design, software engineering principles & practices, architecture, and networking systems. I've also developed data-centered skills during as an undergraduate research assistant and a data analysis fellow.
+## What I'm Currently Up To
+As of Summer 2026, I'm strongly invested in strengthening my fundamentals in math and programming. My goal with this approach is to develop a skillset that aligns with the modern transition from static to variable work, enabling me to efficiently handle different types of challenges on the job.    
 ## Career Interests
-Ideally I'd like to focus on opportunities to grow as a software engineer in my early career, but don't count me out for other roles! I'm open to exploring and becoming involved in other areas of tech if the opportunity seems like a good fit! If you're reading this and are involved in a field that solves problems, I'd like to learn about your work and what you enjoy about it!
-## Who Am I Away From the Screen?
-I'm a self-proclaimed PBA bowler and IFBB bodybuilding professional (In reality, I average 170 bowling on house shots, and I've only lifted weights for 5 years). I do, however, enjoy anime, gaming (PC), and am a fan of animals (I have a pomsky named Rocket). Anyways, if you want me to join your bowling league or just want to pick my brain about tech, I'm open to chatting!
+I'd like to focus on opportunities to grow as a software engineer during my early career, but I'm open to learning about and potentially advancing in other opportunities that intersect between software and data.
+## Who Am I Away From Work?
+Aside from the self-learning I allocate time to, I prioritize staying active! I workout 6 days a week, occasionally bowl on leagues, and I've recently picked up running and hope to complete my first 10k soon.
+## Exciting Summer '26 Events
+- First Attempt at Open Source Contribution Was Accepted & Merged.
+- Spent a Week Visiting California for the First Time!
+- Revisited Algebraic Foundations & Prepped For Upcoming CS Coursework.
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damesei) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damesei@umich.edu)
 ## Tech Stack
