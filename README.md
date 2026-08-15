@@ -1,5 +1,5 @@
 ## Hi, I'm Damian Seitz!
-I'm studying Computer Science at the University of Michigan, focused on software engineering and related areas. I've completed coursework covering full-stack & object-oriented development, algorithmic design, software engineering principles & practices, architecture, and networking systems. I've also developed data-centered skills during as an undergraduate research assistant and a data analysis fellow.
+I'm studying Computer Science at the University of Michigan, focused on software engineering and related areas. I've completed coursework covering full-stack & object-oriented development, algorithmic design, software engineering principles & practices, architecture, and networking systems. I've also developed data-centered skills as an undergraduate research assistant and a data analysis fellow.
 ## What I'm Currently Up To
 As of Summer 2026, I'm strongly invested in strengthening my fundamentals in math and programming. My goal with this approach is to develop a skillset that aligns with the modern transition from static to variable work, enabling me to efficiently handle different types of challenges on the job.    
 ## Career Interests
